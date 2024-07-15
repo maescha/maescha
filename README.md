@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on completing the Udemy Frontend Web Developer Bootcamp
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on completing the Udemy Web Developer Bootcamp
+- 🌱 I’m currently learning ![.](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I also like to write ✍️💕
 
