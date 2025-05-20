@@ -3,7 +3,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I also like to write ✍️💕
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAESCHA&layout=compact&theme=onedark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAESCHA&layout=donut&theme=onedark&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MAESCHA&theme=onedark&hide_border=true) 
 
 # 💻 Tech Stack
